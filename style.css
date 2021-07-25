@@ -18,13 +18,14 @@
         color:  #3D5AFE;
       }
 
-      .btn-outline:focus{
-        background:#3D5AFE ;
-        color: white;
+      .btn-outline:hover{
+        background:none ;
+        color: #3D5AFE;
       }
 
-      .btn-outline:focus{
-        background:#3D5AFE ;
+      .btn-outline-primary:focus{
+        background: #3D5AFE ;
+        color: white;
       }
       .iconSize{
         font-size: 14px;
