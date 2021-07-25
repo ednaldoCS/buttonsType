@@ -1,0 +1,64 @@
+
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+      button{
+        font-weight: 500px;
+        font-size: 14px;
+        font-family: 'Noto Sans JP', sans-serif;
+        outline: none;
+      }
+      .bg-gray-claro{
+        background: #E0E0E0;
+      }
+      .bg-gray-dark{
+        background: #AEAEAE;
+      }
+
+      .btn-outline{
+        border: 1px solid  #3D5AFE;
+        color:  #3D5AFE;
+      }
+
+      .btn-outline:focus{
+        background:#3D5AFE ;
+        color: white;
+      }
+
+      .btn-outline:focus{
+        background:#3D5AFE ;
+      }
+      .iconSize{
+        font-size: 14px;
+      }
+      .nav{
+        margin: 0 auto;
+        text-align: center;
+      }
+      .nav-item{
+        line-height: 50px;
+        margin: 0 auto;
+        color: #9e9e9e;
+      }
+      .active{
+        color: black;
+        font-weight: bold;
+      }
+
+      .btn-text:hover{
+        background: rgba(41, 98, 255, 0.1);
+      }
+      .btn-text:focus{
+        background: rgba(41, 98, 255, 0.1);
+      }
+
+      h4{
+        font-size: 15px;
+        font-family: 'Noto Sans JP', sans-serif;
+      }
+
+      .colorBtn div{
+        margin: 10px 20px;
+      }
+
+      div>div{
+        margin-bottom: 20px;
+      }
